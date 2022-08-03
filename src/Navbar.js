@@ -3,7 +3,8 @@ const Navbar = () => {
     <nav className="navbar">
       <h1>The Teri Blog App</h1>
       <div className="links">
-        <a href="/"></a>
+        <a href="#">Home</a>
+        <a href="/create">New Blog</a>
 
       </div>
     </nav>

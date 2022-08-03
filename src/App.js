@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <Navbar></Navbar>
     <div className="content">
-       <h1>App component</h1>
+      <Home></Home>
        
       </div>
     </div>
